@@ -1,5 +1,6 @@
 %player fell into a hole and lost %xpxp!
 %player was struck by lightning, causing %xpxp to fall out.
+%player found a chest! Inside this chest is another chest. This chest meta is too overwhelming for %himher to understand, and causes %himher to lose %xpxp.
 %player choked on a wooden nickel, coughing it up along with %xpxp.
 %player was mauled by a bear, the bear stealing %xpxp afterwards.
 %player was eaten by a grue. %player had to pay a %xpxp fee to respawn!
